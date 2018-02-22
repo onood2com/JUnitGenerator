@@ -1,6 +1,9 @@
 # JMetaAgents [![Build Status](https://travis-ci.org/welle/JUnitGenerator.svg?branch=master)](https://travis-ci.org/welle/JUnitGenerator) [![Quality Gate](https://sonarcloud.io/api/badges/gate?key=aka.junitgenerator:JUnitGenerator)](https://sonarcloud.io/dashboard/index/aka.junitgenerator:JUnitGenerator) #
 
-Quick & dirty code to create JUnit tests skeletons for classes (can be in a jar)
+Quick & dirty code to create JUnit tests skeletons for classes (can be in a jar).
+Classes with dependencies will not be used and no test unit will be generated.
+
+See Test unit a short example...
 
 ### Version
 
